@@ -25,6 +25,7 @@ My research interests include asset pricing, derivatives, financial econometrics
 
 **[Characterizing the Conditional Pricing Kernel: A New Approach](https://www.dropbox.com/scl/fi/pfc224qli1itmobpvzmr7/JMP_v10.pdf?rlkey=dy16yvrf96i0izr7eu6yw26pd&dl=0)** 
 : <font size="+2px">* test</font>
+: <font size="+2px">* test2</font>
 <ul> 
   <li>test</li>
   <li>test2</li>
