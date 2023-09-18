@@ -45,7 +45,7 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 
 **Pricing Kernels in Discrete-Time Option Pricing Models**  (with Steven Heston and Kris Jacobs)
 
-<!-- **Pseudo Firms and Expected Stock Returns** (with Hitesh Doshi and Sang Byung Seo) -->
+**Pseudo Firms and Expected Stock Returns** (with Hitesh Doshi and Sang Byung Seo) 
 
 <br/>
 
