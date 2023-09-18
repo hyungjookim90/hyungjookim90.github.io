@@ -24,16 +24,16 @@ My research interests include asset pricing, derivatives, financial econometrics
 
 
 **[Characterizing the Conditional Pricing Kernel: A New Approach](https://www.dropbox.com/scl/fi/pfc224qli1itmobpvzmr7/JMP_v10.pdf?rlkey=dy16yvrf96i0izr7eu6yw26pd&dl=0)** 
-: <font size="+1px"><li>test</li></font>
-: <font size="+1px"><li>test2</li></font>
-<ul> 
-  <li>test</li>
-  <li>test2</li>
-</ul> 
+: <font size="+1px"><li>Presentations: IAAE (2023), EEA-ESEM (2022), Virtual Derivatives Workshop (2021), NZFM (2021), WFBS (2021), Concordia University, Cornerstone Research, Federal Reserve Board of Governors, Korea Development Institute, Korea Insurance Research Institute, Saint Mary's University, University of Houston, Wilfrid Laurier University</li></font>
 
 **[Options on Interbank Rates and Implied Disaster Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469087)** (with Hitesh Doshi and Sang Byung Seo)
+: <font size="+1px"><li>Revise and Resubmit, <i>Journal of Financial and Quantitative Analysis</i></li></font>
+: <font size="+1px"><li>Presentations: North American Summer Meeting of the Econometric Society (2021), EFA (2020), NFA (2020), FMA (2019), University of Houston</li></font>
+: <font size="+1px"><li>Best Paper Award Semifinalist, FMA (2019)</li></font>
 
 **[The Pricing Kernel in Options](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997905)**  (with Steven Heston and Kris Jacobs)
+: <font size="+1px"><li>Presentations: AFA (2023), CBOE Conference on Derivatives and Volatility (2022), SoFiE (2022), Finance Down Under (2022), K.U. Leuven, Syracuse University, University of Houston, University of Liverpool </li></font>
+
 
 A data-driven personal website
 ======
