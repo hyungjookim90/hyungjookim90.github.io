@@ -15,7 +15,7 @@ My research interests include asset pricing, derivatives, financial econometrics
 
 <!-- <p style="font-size:$type-size-6;"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></p> -->
 
-#### [Curriculum Vitae](http://academicpages.github.io/files/paper1.pdf)
+#### [Curriculum Vitae](http://academicpages.github.io/files/cv_kim_072923.pdf)
 
 A data-driven personal website
 ======
