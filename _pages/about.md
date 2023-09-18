@@ -23,11 +23,12 @@ My research interests include asset pricing, derivatives, financial econometrics
 ## <font color="navy">Working Papers</font>
 
 
-<p style="line-height:-5px;">  
-  
 **[Characterizing the Conditional Pricing Kernel: A New Approach](https://www.dropbox.com/scl/fi/pfc224qli1itmobpvzmr7/JMP_v10.pdf?rlkey=dy16yvrf96i0izr7eu6yw26pd&dl=0)** 
-* test
-</p>
+: * test
+<ul>
+  <li>test</li>
+  <li>test2</li>
+</ul> 
 
 **[Options on Interbank Rates and Implied Disaster Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469087)** (with Hitesh Doshi and Sang Byung Seo)
 
