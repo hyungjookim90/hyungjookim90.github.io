@@ -22,6 +22,12 @@ My research interests include asset pricing, derivatives, financial econometrics
 
 ## <font color="navy">Working Papers</font>
 
+**[Characterizing the Conditional Pricing Kernel: A New Approach](https://www.dropbox.com/scl/fi/pfc224qli1itmobpvzmr7/JMP_v10.pdf?rlkey=dy16yvrf96i0izr7eu6yw26pd&dl=0)**
+
+**[Options on Interbank Rates and Implied Disaster Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469087)** (with Hitesh Doshi and Sang Byung Seo)
+
+**[The Pricing Kernel in Options](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997905)**  (with Steven Heston and Kris Jacobs)
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
