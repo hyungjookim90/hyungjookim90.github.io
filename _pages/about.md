@@ -17,10 +17,12 @@ My research interests include asset pricing, derivatives, financial econometrics
 
 <!-- <p style="font-size:$type-size-6;"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></p> -->
 
-<p>
+
+**[<font>Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_072923.pdf)** <br/>
 Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
-[<font size="+0.5px">Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_072923.pdf)
-</p>
+
+<!-- #### [<font size="+0.5px">Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_072923.pdf) -->
+
 <br/>
 
 ## <font color="navy">Working Papers</font>
