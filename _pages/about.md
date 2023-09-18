@@ -12,7 +12,7 @@ I am an Economist in the Quantitative Risk Analysis Section of the Board of Gove
 
 <p>
 My research interests include asset pricing, derivatives, financial econometrics, and macro-finance. <br/>
-<font size="0.9em"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></font>
+<font size="1.5em"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></font>
 </p>
 
 <!-- <p style="font-size:$type-size-6;"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></p> -->
