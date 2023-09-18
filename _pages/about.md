@@ -11,7 +11,7 @@ redirect_from:
 I am an Economist in the Quantitative Risk Analysis Section of the Board of Governors of the Federal Reserve System.
 
 My research interests include asset pricing, derivatives, financial econometrics, and macro-finance. <br/>
-<font font-size="0.8em"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></font>
+<font size="0.8em"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></font>
 
 <!-- <p style="font-size:$type-size-6;"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></p> -->
 
