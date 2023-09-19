@@ -3,16 +3,6 @@
 {% case site.analytics.provider %}
 {% when "google" %}
   {% include /analytics-providers/google.html %}
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-PMES9RL2YQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-PMES9RL2YQ');
-</script>
-
 {% when "google-universal" %}
   {% include /analytics-providers/google-universal.html %}
 {% when "custom" %}
@@ -21,3 +11,12 @@
 
 {% endif %}
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PMES9RL2YQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PMES9RL2YQ');
+</script>
