@@ -1,3 +1,4 @@
+<!--
 {% if site.analytics.provider and page.analytics != false %}
 
 {% case site.analytics.provider %}
@@ -10,9 +11,10 @@
 {% endcase %}
 
 {% endif %} 
+-->
 
 <!-- Google tag (gtag.js) -->
-
+<!--
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PMES9RL2YQ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -21,10 +23,9 @@
 
   gtag('config', 'G-PMES9RL2YQ');
 </script>
-
+-->
 
 <!-- Google tag (gtag.js) -->
-<!--
 <script async src="https://www.googletagmanager.com/gtag/js?id={% raw %}{{ site.google_analytics }}{% endraw %}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -33,4 +34,4 @@
 
   gtag('config', '{% raw %}{{ site.google_analytics }}{% endraw %}');
 </script>
--->
+
