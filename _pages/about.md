@@ -26,7 +26,7 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 <br/>
 
 ## <font color="navy">Working Papers</font>
-<font size="-1px"><li>$\dagger$ indicates scheduled presentations</li></font>
+<font size="-1px"><i>$\dagger$ indicates scheduled presentations</i></font>
 
 **[Characterizing the Conditional Pricing Kernel: A New Approach](https://www.dropbox.com/scl/fi/pfc224qli1itmobpvzmr7/JMP_v10.pdf?rlkey=dy16yvrf96i0izr7eu6yw26pd&dl=0)** 
 : <font size="+0.5px"><li>Presentations: IAAE (2023), EEA-ESEM (2022), Virtual Derivatives Workshop (2021), NZFM (2021), WFBS (2021), Concordia University, Cornerstone Research, Federal Reserve Board of Governors, Korea Development Institute, Korea Insurance Research Institute, Saint Mary's University, University of Houston, Wilfrid Laurier University</li></font>
