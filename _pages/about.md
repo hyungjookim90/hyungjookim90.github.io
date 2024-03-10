@@ -39,7 +39,7 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 : <font size="+0.5px"><li>Presentations: AFA (2023), CBOE Conference on Derivatives and Volatility (2022), SoFiE (2022), Finance Down Under (2022), K.U. Leuven, Syracuse University, University of Houston, University of Liverpool </li></font>
 
 **[A New Closed-Form Discrete-Time Option Pricing Model with Stochastic Volatility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607397)**  (with Steven Heston and Kris Jacobs)
-: <font size="+0.5px"><li>Presentations: University Paris 1 (2024)$^\dagger$, Federal Reserve Board (2024)$^\dagger$, Seoul National University (2024)$^\dagger$, Cancun Derivatives Workshop (2024) </li></font>
+: <font size="+0.5px"><li>Presentations: University Paris 1 (2024)$^\dagger$, Federal Reserve Board (2024)$^\dagger$, Seoul National University (2024)$^\dagger$, Cancun Derivatives and Asset Pricing Conference (2024) </li></font>
 
 <br/>
 
