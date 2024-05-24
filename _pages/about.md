@@ -18,10 +18,10 @@ My research interests include asset pricing, derivatives, financial econometrics
 <!-- <p style="font-size:$type-size-6;"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></p> -->
 
 
-**[<font>Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_040624.pdf)** <br/>
+**[<font>Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_052424.pdf)** <br/>
 Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 
-<!-- #### [<font size="+0.5px">Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_040624.pdf) -->
+<!-- #### [<font size="+0.5px">Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_052424.pdf) -->
 
 <br/>
 
@@ -36,10 +36,11 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 : <font size="+0.5px"><li>Best Paper Award Semifinalist, FMA (2019)</li></font>
 
 **[Volatility Risk and Monotonic Pricing Kernels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997905)**  (with Steven Heston and Kris Jacobs)
+: <font size="+0.5px"><li>Revise and Resubmit, <i>Review of Financial Studies</i></li></font>
 : <font size="+0.5px"><li>Presentations: AFA (2023), CBOE Conference on Derivatives and Volatility (2022), SoFiE (2022), Finance Down Under (2022), K.U. Leuven, Syracuse University, University of Houston, University of Liverpool </li></font>
 
 **[A New Closed-Form Discrete-Time Option Pricing Model with Stochastic Volatility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607397)**  (with Steven Heston and Kris Jacobs)
-: <font size="+0.5px"><li>Presentations: University Paris 1 (2024)$^\dagger$, Federal Reserve Board (2024)$^\dagger$, Seoul National University (2024), Cancun Derivatives and Asset Pricing Conference (2024) </li></font>
+: <font size="+0.5px"><li>Presentations: SoFiE (2024)$^\dagger$, NYU Mathematical Modeling in Finance Workshop (2024), University Paris 1 (2024), Federal Reserve Board (2024), Seoul National University (2024), Cancun Derivatives and Asset Pricing Conference (2024) </li></font>
 
 <br/>
 
