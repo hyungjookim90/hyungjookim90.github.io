@@ -28,7 +28,7 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 ## <font color="navy">Working Papers</font> <font size="-1px">(<i>$\dagger$ indicates scheduled presentations</i>)</font>
 
 **[Options on Interbank Rates and Implied Disaster Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469087)** (with Hitesh Doshi and Sang Byung Seo)
-: **<font size="+0.5px"><li>Revise and Resubmit, <i>Journal of Financial and Quantitative Analysis</i></li></font>**
+: <font size="+0.5px"><li>**Revise and Resubmit, <i>Journal of Financial and Quantitative Analysis</i>**</li></font>
 : <font size="+0.5px"><li>Presentations: North American Summer Meeting of the Econometric Society (2021), EFA (2020), NFA (2020), FMA (2019), University of Houston</li></font>
 : <font size="+0.5px"><li>Best Paper Award Semifinalist, FMA (2019)</li></font>
 
