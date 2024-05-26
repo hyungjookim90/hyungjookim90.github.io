@@ -33,7 +33,7 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 : <font size="+0.5px"><li>Best Paper Award Semifinalist, FMA (2019)</li></font>
 
 **[Volatility Risk and Monotonic Pricing Kernels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997905)**  (with Steven Heston and Kris Jacobs)
-: <font size="+0.5px"><li><b>Revise and Resubmit, <i>Review of Financial Studies</i>1,</b></li></font>
+: <font size="+0.5px"><li><b>Revise and Resubmit, <i>Review of Financial Studies</i></b></li></font>
 : <font size="+0.5px"><li>Presentations: AFA (2023), CBOE Conference on Derivatives and Volatility (2022), SoFiE (2022), Finance Down Under (2022), K.U. Leuven, Syracuse University, University of Houston, University of Liverpool </li></font>
 
 **[Characterizing the Conditional Pricing Kernel: A New Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605072)**
