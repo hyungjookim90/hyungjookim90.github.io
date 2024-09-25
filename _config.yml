@@ -89,7 +89,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=-azXgQQAAAAJ"
   email            : "hyungjoo.kim@frb.gov"
   researchgate     :  
-  uri              : "https://www.federalreserve.gov/econres/hyung-joo-kim.htm"
+  uri              : 
+  frbpage          : "https://www.federalreserve.gov/econres/hyung-joo-kim.htm"
   bitbucket        :
   codepen          :
   dribbble         :
