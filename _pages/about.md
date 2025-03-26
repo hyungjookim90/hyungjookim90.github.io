@@ -37,7 +37,7 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 : <font size="+0.5px"><li>Presentations: AFA (2023), CBOE Conference on Derivatives and Volatility (2022), SoFiE (2022), Finance Down Under (2022), K.U. Leuven, Syracuse University, University of Houston, University of Liverpool </li></font>
 
 **[A New Closed-Form Discrete-Time Option Pricing Model with Stochastic Volatility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607397)**  (with Steven Heston and Kris Jacobs)
-: <font size="+0.5px"><li>Presentations: AFA (2025)$^\dagger$, Paris December Finance Meeting (2024)$^\dagger$, CBOE Conference on Derivatives and Volatility (2024), SoFiE (2024), NYU Mathematical Modeling in Finance Workshop (2024), University Paris 1 (2024), Federal Reserve Board (2024), Seoul National University (2024), Cancun Derivatives and Asset Pricing Conference (2024) </li></font>
+: <font size="+0.5px"><li>Presentations: AFA (2025), Paris December Finance Meeting (2024), CBOE Conference on Derivatives and Volatility (2024), SoFiE (2024), NYU Mathematical Modeling in Finance Workshop (2024), University Paris 1 (2024), Federal Reserve Board (2024), Seoul National University (2024), Cancun Derivatives and Asset Pricing Conference (2024) </li></font>
 
 **[Characterizing the Conditional Pricing Kernel: A New Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605072)**
 : <font size="+0.5px"><li>Presentations: IAAE (2023), EEA-ESEM (2022), Virtual Derivatives Workshop (2021), NZFM (2021), WFBS (2021), Concordia University, Cornerstone Research, Federal Reserve Board of Governors, Korea Development Institute, Korea Insurance Research Institute, Saint Mary's University, University of Houston, Wilfrid Laurier University</li></font>
