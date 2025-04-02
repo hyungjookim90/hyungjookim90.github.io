@@ -18,10 +18,10 @@ My research interests include asset pricing, derivatives, financial econometrics
 <!-- <p style="font-size:$type-size-6;"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></p> -->
 
 
-**[<font>Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Mar2025.pdf)** <br/>
+**[<font>Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Apr2025.pdf)** <br/>
 Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 
-<!-- #### [<font size="+0.5px">Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Mar2025.pdf) -->
+<!-- #### [<font size="+0.5px">Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Apr2025.pdf) -->
 
 <br/>
 
@@ -48,6 +48,8 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 ## <font color="navy">Work in Progress</font>
 
 **Option Prices and Local Estimation** (with Dong Hwan Oh) 
+
+**Volatility and Risk Premia in Term Structure Models** (with Hitesh Doshi and Kris Jacobs) 
 
 <br/>
 
