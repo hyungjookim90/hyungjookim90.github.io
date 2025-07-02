@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Economist in the Quantitative Risk Analysis Section of the Board of Governors of the Federal Reserve System.
+I am a Senior Economist in the Quantitative Risk Analysis Section of the Board of Governors of the Federal Reserve System.
 
 <p>
 My research interests include asset pricing, derivatives, financial econometrics, and macro-finance. <br/>
@@ -47,7 +47,7 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 
 ## <font color="navy">Work in Progress</font>
 
-**Option Prices and Local Estimation** (with Dong Hwan Oh) 
+**Local Estimation for Option Pricing: Improving Forecasts with Market State Information** (with Dong Hwan Oh) [Draft by request]
 
 **Volatility and Risk Premia in Term Structure Models** (with Hitesh Doshi and Kris Jacobs) 
 
