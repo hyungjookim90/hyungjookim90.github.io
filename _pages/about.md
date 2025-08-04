@@ -47,7 +47,7 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 **[Characterizing the Conditional Pricing Kernel: A New Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605072)**
 : <font size="+0.5px"><li>Presentations: IAAE (2023), EEA-ESEM (2022), Virtual Derivatives Workshop (2021), NZFM (2021), WFBS (2021), Concordia University, Cornerstone Research, Federal Reserve Board of Governors, Korea Development Institute, Korea Insurance Research Institute, Saint Mary's University, University of Houston, Wilfrid Laurier University</li></font>
 
-**Local Estimation for Option Pricing: Improving Forecasts with Market State Information** (with Dong Hwan Oh) [Draft by request]
+**[Local Estimation for Option Pricing: Improving Forecasts with Market State Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968)**  (with Dong Hwan Oh)
 
 <br/>
 
