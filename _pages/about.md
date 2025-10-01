@@ -54,7 +54,9 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 
 ## <font color="navy">Work in Progress</font>
 
-**Volatility and Risk Premia in Term Structure Models** (with Hitesh Doshi and Kris Jacobs) 
+**Volatility and Risk Premia in Term Structure Models** (with Kasra Baniasadi, Hitesh Doshi, and Kris Jacobs) 
+
+**Heterogeneity in the Cross Section of Options** (with Dong Hwan Oh) 
 
 <br/>
 
