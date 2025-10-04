@@ -18,10 +18,10 @@ My research interests include asset pricing, derivatives, financial econometrics
 <!-- <p style="font-size:$type-size-6;"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></p> -->
 
 
-**[<font>Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Sep2025_upload.pdf)** <br/>
+**[<font>Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Oct2025.pdf)** <br/>
 Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/> 
 
-<!-- #### [<font size="+0.5px">Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Sep2025_upload.pdf) -->
+<!-- #### [<font size="+0.5px">Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Oct2025.pdf) -->
 
 
 <br/>
@@ -48,6 +48,7 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 : <font size="+0.5px"><li>Presentations: IAAE (2023), EEA-ESEM (2022), Virtual Derivatives Workshop (2021), NZFM (2021), WFBS (2021), Concordia University, Cornerstone Research, Federal Reserve Board of Governors, Korea Development Institute, Korea Insurance Research Institute, Saint Mary's University, University of Houston, Wilfrid Laurier University</li></font>
 
 **[Local Estimation for Option Pricing: Improving Forecasts with Market State Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968)**  (with Dong Hwan Oh)
+: <font size="+0.5px"><li>Presentations: Erasmus School of Economics$\dagger$ (2025), University of Amsterdam$\dagger$ (2025) </li></font>
 
 <br/>
 
