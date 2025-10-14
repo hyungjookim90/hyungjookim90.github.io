@@ -30,7 +30,6 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 
 **[Options on Interbank Rates and Implied Disaster Risk](https://doi.org/10.1017/S0022109025101889)** (with Hitesh Doshi and Sang Byung Seo)
 : <font size="+0.5px"><li><b><i>Journal of Financial and Quantitative Analysis,</i> Forthcoming.</b> (<a href="http://hyungjookim90.github.io/files/DKS_Internet_Appendix.pdf" target="_blank">Internet Appendix</a>)</li></font>
-<!-- : <font size="+0.5px"><li>[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469087) | [FEDS WP](https://www.federalreserve.gov/econres/feds/options-on-interbank-rates-and-implied-disaster-risk.htm)</li></font> -->
 : <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469087">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/options-on-interbank-rates-and-implied-disaster-risk.htm">FEDS WP</a></li></font>
 : <font size="+0.5px"><li>Best Paper Award Semifinalist, FMA (2019)</li></font>
 
@@ -41,15 +40,19 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 
 **[Volatility Risk and Monotonic Pricing Kernels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997905)**  (with Steven Heston and Kris Jacobs)
 : <font size="+0.5px"><li><b>Revise and Resubmit, <i>Review of Financial Studies</i></b></li></font>
+: <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997905">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/the-pricing-kernel-in-options.htm">FEDS WP</a></li></font>
 : <font size="+0.5px"><li>Presentations: AFA (2023), CBOE Conference on Derivatives and Volatility (2022), SoFiE (2022), Finance Down Under (2022), K.U. Leuven, Syracuse University, University of Houston, University of Liverpool </li></font>
 
 **[A New Closed-Form Discrete-Time Option Pricing Model with Stochastic Volatility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607397)**  (with Steven Heston and Kris Jacobs)
+: <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607397">SSRN</a></li></font>
 : <font size="+0.5px"><li>Presentations: AFA (2025), Paris December Finance Meeting (2024), CBOE Conference on Derivatives and Volatility (2024), SoFiE (2024), NYU Mathematical Modeling in Finance Workshop (2024), University Paris 1 (2024), Federal Reserve Board (2024), Seoul National University (2024), Cancun Derivatives and Asset Pricing Conference (2024) </li></font>
 
 **[Characterizing the Conditional Pricing Kernel: A New Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605072)**
+: <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605072">SSRN</a></li></font>
 : <font size="+0.5px"><li>Presentations: IAAE (2023), EEA-ESEM (2022), Virtual Derivatives Workshop (2021), NZFM (2021), WFBS (2021), Concordia University, Cornerstone Research, Federal Reserve Board of Governors, Korea Development Institute, Korea Insurance Research Institute, Saint Mary's University, University of Houston, Wilfrid Laurier University</li></font>
 
 **[Local Estimation for Option Pricing: Improving Forecasts with Market State Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968)**  (with Dong Hwan Oh)
+: <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/local-estimation-for-option-pricing-improving-forecasts-with-market-state-information.htm">FEDS WP</a></li></font>
 : <font size="+0.5px"><li>Presentations: Erasmus School of Economics$^\dagger$ (2025), University of Amsterdam$^\dagger$ (2025) </li></font>
 
 <br/>
