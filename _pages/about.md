@@ -28,8 +28,9 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 
 ## <font color="navy">Publication</font>
 
-**[Options on Interbank Rates and Implied Disaster Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469087)** (with Hitesh Doshi and Sang Byung Seo)
+**[Options on Interbank Rates and Implied Disaster Risk](https://doi.org/10.1017/S0022109025101889)** (with Hitesh Doshi and Sang Byung Seo)
 : <font size="+0.5px"><li><b><i>Journal of Financial and Quantitative Analysis,</i> Forthcoming.</b> (<a href="http://hyungjookim90.github.io/files/DKS_Internet_Appendix.pdf" target="_blank">Internet Appendix</a>)</li></font>
+: <font size="+0.5px"><li>[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469087) | [FEDS WP](https://www.federalreserve.gov/econres/feds/options-on-interbank-rates-and-implied-disaster-risk.htm)</li></font>
 : <font size="+0.5px"><li>Best Paper Award Semifinalist, FMA (2019)</li></font>
 
 
