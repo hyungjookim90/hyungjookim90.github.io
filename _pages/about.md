@@ -18,10 +18,10 @@ My research interests include asset pricing, derivatives, financial econometrics
 <!-- <p style="font-size:$type-size-6;"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></p> -->
 
 
-**[<font>Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Oct2025.pdf)** <br/>
+**[<font>Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Dec2025.pdf)** <br/>
 Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/> 
 
-<!-- #### [<font size="+0.5px">Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Oct2025.pdf) -->
+<!-- #### [<font size="+0.5px">Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Dec2025.pdf) -->
 
 
 <br/>
@@ -53,7 +53,7 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 
 **[Local Estimation for Option Pricing: Improving Forecasts with Market State Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968)**  (with Dong Hwan Oh)
 : <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/local-estimation-for-option-pricing-improving-forecasts-with-market-state-information.htm">FEDS WP</a></li></font>
-: <font size="+0.5px"><li>Presentations: Erasmus School of Economics (2025), Amsterdam Business School (2025) </li></font>
+: <font size="+0.5px"><li>Presentations: MFA$\dagger$ (2026) Erasmus School of Economics (2025), Amsterdam Business School (2025) </li></font>
 
 <br/>
 
