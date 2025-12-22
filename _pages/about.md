@@ -39,7 +39,8 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 ## <font color="navy">Working Papers</font> <font size="-1px">(<i>$\dagger$ indicates scheduled presentations</i>)</font> 
 <!-- <font size="-1px">(<i>$\dagger$ indicates scheduled presentations</i>)</font> -->
 
-**[Volatility Risk and Monotonic Pricing Kernels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997905)**  (with Steven Heston and Kris Jacobs) <!-- : <font size="+0.5px"><li><b>Revise and Resubmit, <i>Review of Financial Studies</i></b></li></font> -->
+**[Volatility Risk and Monotonic Pricing Kernels](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997905)**  (with Steven Heston and Kris Jacobs) 
+: <font size="+0.5px"><li><b>Revise and Resubmit, <i>Review of Financial Studies</i></b></li></font> 
 : <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997905">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/the-pricing-kernel-in-options.htm">FEDS WP</a></li></font>
 : <font size="+0.5px"><li>Presentations: AFA (2023), CBOE Conference on Derivatives and Volatility (2022), SoFiE (2022), Finance Down Under (2022), K.U. Leuven, Syracuse University, University of Houston, University of Liverpool </li></font>
 
