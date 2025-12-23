@@ -54,7 +54,7 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 
 **[Local Estimation for Option Pricing: Improving Forecasts with Market State Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968)**  (with Dong Hwan Oh)
 : <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/local-estimation-for-option-pricing-improving-forecasts-with-market-state-information.htm">FEDS WP</a></li></font>
-: <font size="+0.5px"><li>Presentations: MFA (2026)$^\dagger$ Erasmus School of Economics (2025), Amsterdam Business School (2025) </li></font>
+: <font size="+0.5px"><li>Presentations: SNDE (2026)$^\dagger$, MFA (2026)$^\dagger$, Erasmus School of Economics (2025), Amsterdam Business School (2025) </li></font>
 
 <br/>
 
