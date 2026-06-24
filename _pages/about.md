@@ -29,7 +29,7 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 ## <font color="navy">Publication</font>
 
 **[Options on Interbank Rates and Implied Disaster Risk](https://doi.org/10.1017/S0022109025101889)** (with Hitesh Doshi and Sang Byung Seo)
-: <font size="+0.5px"><li><b><i>Journal of Financial and Quantitative Analysis,</i> Forthcoming.</b> (<a href="http://hyungjookim90.github.io/files/DKS_Internet_Appendix.pdf" target="_blank">Internet Appendix</a>)</li></font>
+: <font size="+0.5px"><li><b><i>Journal of Financial and Quantitative Analysis,</i> </b> (<a href="http://hyungjookim90.github.io/files/DKS_Internet_Appendix.pdf" target="_blank">Internet Appendix</a>)</li></font>
 : <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469087">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/options-on-interbank-rates-and-implied-disaster-risk.htm">FEDS WP</a></li></font>
 : <font size="+0.5px"><li>Best Paper Award Semifinalist, FMA (2019)</li></font>
 
@@ -53,9 +53,12 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 
 **[Local Estimation for Option Pricing: Improving Forecasts with Market State Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968)**  (with Dong Hwan Oh)
 : <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/local-estimation-for-option-pricing-improving-forecasts-with-market-state-information.htm">FEDS WP</a></li></font>
-: <font size="+0.5px"><li>Presentations: SNDE (2026)$^\dagger$, MFA (2026), Yonsei University (2026), Copenhagen Business School (2026), Erasmus School of Economics (2025), Amsterdam Business School (2025) </li></font>
+: <font size="+0.5px"><li>Presentations: SNDE (2026), MFA (2026), Yonsei University (2026), Copenhagen Business School (2026), Erasmus School of Economics (2025), Amsterdam Business School (2025) </li></font>
 
-**<span style="color: #52adc8;">Capturing Heterogeneity: Machine Learning Approaches to Option Pricing and Implied Volatility Forecasting</span>** (with Dong Hwan Oh) [Draft available upon request]
+**[Capturing Heterogeneity: Machine Learning Approaches to Implied Volatility Forecasting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6991419)** (with Dong Hwan Oh)
+: <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968">SSRN</a>
+
+<!-- **<span style="color: #52adc8;">Capturing Heterogeneity: Machine Learning Approaches to Option Pricing and Implied Volatility Forecasting</span>** (with Dong Hwan Oh) -->
 
 <br/>
 
