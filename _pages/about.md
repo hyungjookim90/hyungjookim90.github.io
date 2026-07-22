@@ -51,9 +51,10 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 : <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605072">SSRN</a></li></font>
 : <font size="+0.5px"><li>Presentations: IAAE (2023), EEA-ESEM (2022), Virtual Derivatives Workshop (2021), NZFM (2021), WFBS (2021), Concordia University, Cornerstone Research, Federal Reserve Board of Governors, Korea Development Institute, Korea Insurance Research Institute, Saint Mary's University, University of Houston, Wilfrid Laurier University</li></font>
 
-**[Local Estimation for Option Pricing: Improving Forecasts with Market State Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968)**  (with Dong Hwan Oh)
+**[Improved Forecasts from Option Pricing Models Through State-Dependent Estimation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968)**  (with Dong Hwan Oh)
 : <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/local-estimation-for-option-pricing-improving-forecasts-with-market-state-information.htm">FEDS WP</a></li></font>
 : <font size="+0.5px"><li>Presentations: SNDE (2026), MFA (2026), Yonsei University (2026), Copenhagen Business School (2026), Erasmus School of Economics (2025), Amsterdam Business School (2025) </li></font>
+: <font size="+0.5px"><li>Previously circulated under the title "Local Estimation for Option Pricing: Improving Forecasts with Market State Information" </li></font>
 
 **[Capturing Heterogeneity: Machine Learning Approaches to Implied Volatility Forecasting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6991419)** (with Dong Hwan Oh)
 : <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6991419">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/capturing-heterogeneity-machine-learning-approaches-to-implied-volatility-forecasting.htm">FEDS WP</a></li></font>
