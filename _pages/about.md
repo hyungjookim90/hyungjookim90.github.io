@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Economist in the Quantitative Risk Analysis Section of the Board of Governors of the Federal Reserve System.
+I am an Assistant Professor of Finance at Copenhagen Business School.
 
 <p>
 My research interests include asset pricing, derivatives, financial econometrics, and macro-finance. <br/>
-<font size="-1px"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></font>
 </p>
+<!-- <font size="-1px"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></font> -->
+
 
 <!-- <p style="font-size:$type-size-6;"><i>The analysis and conclusions presented on this website are my own and do not indicate concurrence by the Board of Governors or the Federal Reserve System.</i></p> -->
 
 
-**[<font>Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Mar2026.pdf)** <br/>
+**[<font>Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Sep2026.pdf)** <br/>
 Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/> 
 
 <!-- #### [<font size="+0.5px">Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Dec2025.pdf) -->
@@ -32,23 +33,25 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 : <font size="+0.5px"><li><b><i>Journal of Financial and Quantitative Analysis</i> </b> (<a href="http://hyungjookim90.github.io/files/DKS_Internet_Appendix.pdf" target="_blank">Internet Appendix</a>)</li></font>
 : <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469087">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/options-on-interbank-rates-and-implied-disaster-risk.htm">FEDS WP</a></li></font>
 : <font size="+0.5px"><li>Best Paper Award Semifinalist, FMA (2019)</li></font>
+: <font size="+0.5px"><li>Previously circulated under the title "What Interbank Rates Tell Us About Time-Varying Disaster Risk" </li></font>
 
+**[Volatility Risk and the Specification of the Pricing Kernel](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997905)**  (with Steven Heston and Kris Jacobs) <!-- : <font size="+0.5px"><li><b>Revise and Resubmit, <i>Review of Financial Studies</i></b></li></font> -->
+: <font size="+0.5px"><li><b><i>Review of Asset Pricing Studies, Forthcoming</i></b></li></font>
+: <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997905">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/the-pricing-kernel-in-options.htm">FEDS WP</a></li></font>
+: <font size="+0.5px"><li>Previously circulated under the title "The Pricing Kernel in Options" </li></font>
+<!-- : <font size="+0.5px"><li>Presentations: AFA (2023), CBOE Conference on Derivatives and Volatility (2022), SoFiE (2022), Finance Down Under (2022), K.U. Leuven, Syracuse University, University of Houston, University of Liverpool </li></font> -->
 
 <br/>
 
 ## <font color="navy">Working Papers</font> <font size="-1px">(<i>$\dagger$ indicates scheduled presentations</i>)</font> 
 <!-- <font size="-1px">(<i>$\dagger$ indicates scheduled presentations</i>)</font> -->
 
-**[Volatility Risk and Monotonic Pricing Kernels](http://hyungjookim90.github.io/files/HJK_October_2025.pdf)**  (with Steven Heston and Kris Jacobs) <!-- : <font size="+0.5px"><li><b>Revise and Resubmit, <i>Review of Financial Studies</i></b></li></font> -->
-: <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997905">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/the-pricing-kernel-in-options.htm">FEDS WP</a></li></font>
-: <font size="+0.5px"><li>Presentations: AFA (2023), CBOE Conference on Derivatives and Volatility (2022), SoFiE (2022), Finance Down Under (2022), K.U. Leuven, Syracuse University, University of Houston, University of Liverpool </li></font>
-
 **[A New Closed-Form Discrete-Time Option Pricing Model with Stochastic Volatility](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607397)**  (with Steven Heston and Kris Jacobs)
 : <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607397">SSRN</a></li></font>
 : <font size="+0.5px"><li>Presentations: AFA (2025), Paris December Finance Meeting (2024), CBOE Conference on Derivatives and Volatility (2024), SoFiE (2024), NYU Mathematical Modeling in Finance Workshop (2024), University Paris 1 (2024), Federal Reserve Board (2024), Seoul National University (2024), Cancun Derivatives and Asset Pricing Conference (2024) </li></font>
 
 **[Characterizing the Conditional Pricing Kernel: A New Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605072)**
-: <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605072">SSRN</a></li></font>
+: <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605072">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/characterizing-the-conditional-pricing-kernel-a-new-approach.htm">FEDS WP</a></li></font>
 : <font size="+0.5px"><li>Presentations: IAAE (2023), EEA-ESEM (2022), Virtual Derivatives Workshop (2021), NZFM (2021), WFBS (2021), Concordia University, Cornerstone Research, Federal Reserve Board of Governors, Korea Development Institute, Korea Insurance Research Institute, Saint Mary's University, University of Houston, Wilfrid Laurier University</li></font>
 
 **[Improved Forecasts from Option Pricing Models Through State-Dependent Estimation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378968)**  (with Dong Hwan Oh)
@@ -58,6 +61,7 @@ Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/>
 
 **[Capturing Heterogeneity: Machine Learning Approaches to Implied Volatility Forecasting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6991419)** (with Dong Hwan Oh)
 : <font size="+0.5px"><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6991419">SSRN</a> | <a href="https://www.federalreserve.gov/econres/feds/capturing-heterogeneity-machine-learning-approaches-to-implied-volatility-forecasting.htm">FEDS WP</a></li></font>
+: <font size="+0.5px"><li>Presentations: FinEML (2026)$^\dagger$, Federal Reserve Board (2026) </li></font>
 
 <!-- **<span style="color: #52adc8;">Capturing Heterogeneity: Machine Learning Approaches to Option Pricing and Implied Volatility Forecasting</span>** (with Dong Hwan Oh) -->
 
