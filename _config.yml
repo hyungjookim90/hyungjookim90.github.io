@@ -82,15 +82,16 @@ analytics:
 author:
   name             : "Hyung Joo Kim"
   avatar           : "profile.jpg"
-  bio              : "Senior Economist, Federal Reserve Board"
+  bio              : "Assistant Professor of Finance, Copenhagen Business School"
   location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=-azXgQQAAAAJ"
-  email            : "hyungjoo.kim@frb.gov"
+  email            : "hyk.fi@cbs.dk"
   researchgate     :  
   uri              : 
-  frbpage          : "https://www.federalreserve.gov/econres/hyung-joo-kim.htm"
+  frbpage          : <!-- "https://www.federalreserve.gov/econres/hyung-joo-kim.htm" -->
+  cbspage          : "https://www.cbs.dk/en/research/departments/department-finance/hyungjoo-kim"
   bitbucket        :
   codepen          :
   dribbble         :
