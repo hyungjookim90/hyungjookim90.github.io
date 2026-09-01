@@ -20,7 +20,7 @@ My research interests include asset pricing, derivatives, financial econometrics
 
 
 **[<font>Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Sep2026.pdf)** <br/>
-Email: <a href = "mailto: hyungjoo.kim@frb.gov">hyungjoo.kim@frb.gov</a>  <br/> 
+Email: <a href = "mailto: hyk.fi@cbs.dk">hyk.fi@cbs.dk</a>  <br/> 
 
 <!-- #### [<font size="+0.5px">Curriculum Vitae</font>](http://hyungjookim90.github.io/files/cv_kim_Dec2025.pdf) -->
 
